@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreivladescu&label=Profile%20views&color=0e75b6&style=flat" alt="andreivladescu" /> </p>
 
-- 🌱 I’m currently learning **Bare-Metal MCU Programming, ROS, Cybersecurity**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AndreiVladescu)
 
 - 🛠️ I post 3D models and designs on [Thingiverse](https://www.thingiverse.com/sorinsalam/designs) and [GrabCAD](https://grabcad.com/andrei.vladescu-2)
