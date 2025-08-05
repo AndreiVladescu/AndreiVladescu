@@ -31,17 +31,20 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           
+
+            
+          # topics  
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: labels
+
           # head
           plugin_followup: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-            
-          # topics  
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: labels
+
 
           # code
           plugin_languages: yes
