@@ -19,6 +19,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           use_prebuilt_image: yes
           output_action: commit
+          committer_message: "Updated metrics"
+          
           clean_workflows: failure, startup_failure, cancelled
           delay: 1
           output_condition: data-changed
@@ -49,10 +51,10 @@ jobs:
           # lines of code
           plugin_lines: yes
 
-          # achivments
+          # achievements
           plugin_achievements: no
 
-          # habbs
+          # habbits
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
