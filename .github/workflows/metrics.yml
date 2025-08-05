@@ -37,7 +37,12 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
+            
+          # topics  
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
           # code
           plugin_languages: yes
           plugin_languages_threshold: 0%
@@ -51,15 +56,15 @@ jobs:
           # lines of code
           plugin_lines: yes
 
-          # achievements
-          plugin_achievements: no
-
           # habbits
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: no
+
 
           # featured repos
-          plugin_repositories: yes
-          #plugin_repositories_affiliations: owner, collaborator, organization_member
-          plugin_repositories_starred: 1
+          # plugin_repositories: yes
+          # plugin_repositories_affiliations: owner, collaborator, organization_member
+
+          # show starred
+          plugin_stars: yes
+          plugin_stars_limit: 3
