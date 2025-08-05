@@ -40,7 +40,7 @@ jobs:
             
           # topics  
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 15
           plugin_topics_mode: icons
 
           # code
@@ -49,8 +49,8 @@ jobs:
           plugin_languages_ignored: html, css, dockerfile, cmake, makefile
           # plugin_languages_aliases: assembly
           # plugin_languages_indepth_custom: nowsecure/frida-cycript
-          plugin_languages_colors: github
-          # plugin_languages_colors: rainbow
+          # plugin_languages_colors: github
+          plugin_languages_colors: rainbow
           plugin_languages_limit: 5
           
           # lines of code
