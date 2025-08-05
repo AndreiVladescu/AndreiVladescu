@@ -12,3 +12,4 @@ I'm Andrei, and I am a cybersecurity engineer with a focus on hardware security.
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andreivladescu&label=Profile%20views&color=010c12&style=flat" alt="andreivladescu"/> </p>
+![Metrics](/github-metrics.svg)
