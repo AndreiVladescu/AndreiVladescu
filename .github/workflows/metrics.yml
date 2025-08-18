@@ -49,7 +49,7 @@ jobs:
           # code
           plugin_languages: yes
           plugin_languages_threshold: 0%
-          plugin_languages_ignored: html, css, dockerfile, cmake, makefile
+          plugin_languages_ignored: html, css, dockerfile, cmake, makefile, php
           plugin_languages_aliases: Batchfile:Powershell
           # plugin_languages_indepth_custom: nowsecure/frida-cycript
           plugin_languages_colors: github
