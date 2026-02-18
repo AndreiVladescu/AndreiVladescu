@@ -30,9 +30,7 @@ jobs:
 
           template: classic
           base: header, activity, community, repositories, metadata
-          
 
-            
           # topics  
           plugin_topics: yes
           plugin_topics_limit: 15
@@ -44,7 +42,6 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
 
           # code
           plugin_languages: yes
@@ -60,9 +57,8 @@ jobs:
           plugin_lines: yes
 
           # habbits
-          plugin_habits: yes
+          #plugin_habits: yes
           plugin_habits_facts: yes
-
 
           # featured repos
           # plugin_repositories: yes
